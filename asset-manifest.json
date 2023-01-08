@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/new-cv/static/css/main.f9485b7d.css",
-    "main.js": "/new-cv/static/js/main.20c8f6a8.js",
+    "main.js": "/new-cv/static/js/main.c0a3814a.js",
     "static/media/linkedin-svgrepo-com.svg": "/new-cv/static/media/linkedin-svgrepo-com.2350a9bf3c9b140985fa189546aea6e6.svg",
     "index.html": "/new-cv/index.html",
     "static/media/Google_Scholar_logo.svg": "/new-cv/static/media/Google_Scholar_logo.40e3b4f719a57a3d034b854054a25c66.svg",
     "main.f9485b7d.css.map": "/new-cv/static/css/main.f9485b7d.css.map",
-    "main.20c8f6a8.js.map": "/new-cv/static/js/main.20c8f6a8.js.map"
+    "main.c0a3814a.js.map": "/new-cv/static/js/main.c0a3814a.js.map"
   },
   "entrypoints": [
     "static/css/main.f9485b7d.css",
-    "static/js/main.20c8f6a8.js"
+    "static/js/main.c0a3814a.js"
   ]
 }
