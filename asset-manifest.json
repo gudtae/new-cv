@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/new-cv/static/css/main.9b5fec6c.css",
-    "main.js": "/new-cv/static/js/main.47279bb3.js",
+    "main.css": "/new-cv/static/css/main.080d67bc.css",
+    "main.js": "/new-cv/static/js/main.efd6d706.js",
     "static/media/theory.svg": "/new-cv/static/media/theory.7bba8dd0d8bd921d0d03887efc752455.svg",
     "static/media/language.svg": "/new-cv/static/media/language.73b9fabeacbe8143d213bbc1d508576e.svg",
     "static/media/soft.svg": "/new-cv/static/media/soft.795d92261db7c7b4795b04bcda1697a9.svg",
@@ -9,11 +9,11 @@
     "static/media/linkedin-svgrepo-com.svg": "/new-cv/static/media/linkedin-svgrepo-com.2350a9bf3c9b140985fa189546aea6e6.svg",
     "index.html": "/new-cv/index.html",
     "static/media/Google_Scholar_logo.svg": "/new-cv/static/media/Google_Scholar_logo.40e3b4f719a57a3d034b854054a25c66.svg",
-    "main.9b5fec6c.css.map": "/new-cv/static/css/main.9b5fec6c.css.map",
-    "main.47279bb3.js.map": "/new-cv/static/js/main.47279bb3.js.map"
+    "main.080d67bc.css.map": "/new-cv/static/css/main.080d67bc.css.map",
+    "main.efd6d706.js.map": "/new-cv/static/js/main.efd6d706.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b5fec6c.css",
-    "static/js/main.47279bb3.js"
+    "static/css/main.080d67bc.css",
+    "static/js/main.efd6d706.js"
   ]
 }
