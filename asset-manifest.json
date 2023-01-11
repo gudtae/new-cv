@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/new-cv/static/css/main.264a4ecc.css",
-    "main.js": "/new-cv/static/js/main.200b56c3.js",
+    "main.css": "/new-cv/static/css/main.f4c8c409.css",
+    "main.js": "/new-cv/static/js/main.4b040502.js",
     "static/media/theory.svg": "/new-cv/static/media/theory.7bba8dd0d8bd921d0d03887efc752455.svg",
     "static/media/language.svg": "/new-cv/static/media/language.73b9fabeacbe8143d213bbc1d508576e.svg",
     "static/media/soft.svg": "/new-cv/static/media/soft.795d92261db7c7b4795b04bcda1697a9.svg",
@@ -10,11 +10,11 @@
     "static/media/location-sign-svgrepo-com.svg": "/new-cv/static/media/location-sign-svgrepo-com.6959f003c1ca50bec2ae6613a31772f9.svg",
     "index.html": "/new-cv/index.html",
     "static/media/Google_Scholar_logo.svg": "/new-cv/static/media/Google_Scholar_logo.40e3b4f719a57a3d034b854054a25c66.svg",
-    "main.264a4ecc.css.map": "/new-cv/static/css/main.264a4ecc.css.map",
-    "main.200b56c3.js.map": "/new-cv/static/js/main.200b56c3.js.map"
+    "main.f4c8c409.css.map": "/new-cv/static/css/main.f4c8c409.css.map",
+    "main.4b040502.js.map": "/new-cv/static/js/main.4b040502.js.map"
   },
   "entrypoints": [
-    "static/css/main.264a4ecc.css",
-    "static/js/main.200b56c3.js"
+    "static/css/main.f4c8c409.css",
+    "static/js/main.4b040502.js"
   ]
 }
