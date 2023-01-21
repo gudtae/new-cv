@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/new-cv/static/css/main.524725a7.css",
-    "main.js": "/new-cv/static/js/main.8f55818a.js",
-    "static/media/theory.svg": "/new-cv/static/media/theory.7bba8dd0d8bd921d0d03887efc752455.svg",
-    "static/media/language.svg": "/new-cv/static/media/language.73b9fabeacbe8143d213bbc1d508576e.svg",
-    "static/media/soft.svg": "/new-cv/static/media/soft.795d92261db7c7b4795b04bcda1697a9.svg",
-    "static/media/tools.svg": "/new-cv/static/media/tools.7f42f83770a8b7b2dd9e2c0b422f56f9.svg",
-    "static/media/linkedin-svgrepo-com.svg": "/new-cv/static/media/linkedin-svgrepo-com.2350a9bf3c9b140985fa189546aea6e6.svg",
-    "static/media/location-sign-svgrepo-com.svg": "/new-cv/static/media/location-sign-svgrepo-com.6959f003c1ca50bec2ae6613a31772f9.svg",
-    "index.html": "/new-cv/index.html",
-    "static/media/Google_Scholar_logo.svg": "/new-cv/static/media/Google_Scholar_logo.40e3b4f719a57a3d034b854054a25c66.svg",
-    "main.524725a7.css.map": "/new-cv/static/css/main.524725a7.css.map",
-    "main.8f55818a.js.map": "/new-cv/static/js/main.8f55818a.js.map"
+    "main.css": "/cv/static/css/main.524725a7.css",
+    "main.js": "/cv/static/js/main.7fed046b.js",
+    "static/media/theory.svg": "/cv/static/media/theory.7bba8dd0d8bd921d0d03887efc752455.svg",
+    "static/media/language.svg": "/cv/static/media/language.73b9fabeacbe8143d213bbc1d508576e.svg",
+    "static/media/soft.svg": "/cv/static/media/soft.795d92261db7c7b4795b04bcda1697a9.svg",
+    "static/media/tools.svg": "/cv/static/media/tools.7f42f83770a8b7b2dd9e2c0b422f56f9.svg",
+    "static/media/linkedin-svgrepo-com.svg": "/cv/static/media/linkedin-svgrepo-com.2350a9bf3c9b140985fa189546aea6e6.svg",
+    "static/media/location-sign-svgrepo-com.svg": "/cv/static/media/location-sign-svgrepo-com.6959f003c1ca50bec2ae6613a31772f9.svg",
+    "index.html": "/cv/index.html",
+    "static/media/Google_Scholar_logo.svg": "/cv/static/media/Google_Scholar_logo.40e3b4f719a57a3d034b854054a25c66.svg",
+    "main.524725a7.css.map": "/cv/static/css/main.524725a7.css.map",
+    "main.7fed046b.js.map": "/cv/static/js/main.7fed046b.js.map"
   },
   "entrypoints": [
     "static/css/main.524725a7.css",
-    "static/js/main.8f55818a.js"
+    "static/js/main.7fed046b.js"
   ]
 }
