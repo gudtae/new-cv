@@ -1,0 +1,29 @@
+nav {
+    margin: 25px 0;
+    transition: 0.2s;
+}
+
+nav.sticky {
+    background-color: rgba(255, 255, 255);
+    /* backdrop-filter: blur(8px); */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.nav-items {
+    display: flex;
+    justify-content: space-evenly
+}
+
+.nav-item {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 32px;
+}
+
+.active{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 32px;
+    color: #DBA81A;
+    text-decoration: none;
+}

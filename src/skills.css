@@ -1,0 +1,15 @@
+.gridSkill{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px 10px;
+    padding: 0 20px;
+}
+
+.gridItemSkill{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    column-gap: 30px;
+}
+.gridColumn{
+    grid-column: 2/3;
+}

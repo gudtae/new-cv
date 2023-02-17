@@ -1,0 +1,36 @@
+.bb{
+    border-bottom: 2px solid transparent;
+    border-image: linear-gradient(0.25turn, rgba(255,255,255,0), rgb(219, 168, 26), rgba(255,255,255,0));
+    border-image-slice: 1;
+    grid-column: 1/3;
+    justify-self: center;
+    width: 20%;
+    padding-top: 5px;
+}
+
+.table__list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+.listOfGoods{
+    grid-column: 2/3;
+}
+
+
+ul li.list__style::before {
+    content: "\2022";
+    /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: rgb(219, 168, 26);
+    /* Change the color */
+    font-weight: bold;
+    /* If you want it to be bold */
+    display: inline-block;
+    /* Needed to add space between the bullet and the text */
+    width: 1em;
+    /* Also needed for space (tweak if needed) */
+    margin-left: -1em;
+    /* Also needed for space (tweak if needed) */
+}
+
